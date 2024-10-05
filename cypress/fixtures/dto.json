@@ -1,0 +1,7 @@
+{
+   "email": "jessyalauk@gmail.com",
+   "password": "test123",
+   "category":["Home","Work","Personal"],
+   "title": "New title",
+   "description": "It's a new note about "
+}
